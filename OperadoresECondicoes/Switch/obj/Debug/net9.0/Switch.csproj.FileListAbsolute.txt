@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\bin\Debug\net9.0\Switch.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\bin\Debug\net9.0\Switch.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\bin\Debug\net9.0\Switch.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\bin\Debug\net9.0\Switch.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\bin\Debug\net9.0\Switch.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\refint\Switch.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\Switch.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresECondicoes\Switch\obj\Debug\net9.0\ref\Switch.dll

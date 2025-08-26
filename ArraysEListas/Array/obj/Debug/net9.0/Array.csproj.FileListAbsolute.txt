@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\bin\Debug\net9.0\Array.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\bin\Debug\net9.0\Array.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\bin\Debug\net9.0\Array.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\bin\Debug\net9.0\Array.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\refint\Array.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\Array\obj\Debug\net9.0\ref\Array.dll

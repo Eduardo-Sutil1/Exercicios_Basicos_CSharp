@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\bin\Debug\net9.0\while.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\bin\Debug\net9.0\while.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\bin\Debug\net9.0\while.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\bin\Debug\net9.0\while.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\bin\Debug\net9.0\while.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\refint\while.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\while.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\while\obj\Debug\net9.0\ref\while.dll

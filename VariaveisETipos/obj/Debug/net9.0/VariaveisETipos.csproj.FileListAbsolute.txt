@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\refint\VariaveisETipos.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\VariaveisETipos\obj\Debug\net9.0\ref\VariaveisETipos.dll

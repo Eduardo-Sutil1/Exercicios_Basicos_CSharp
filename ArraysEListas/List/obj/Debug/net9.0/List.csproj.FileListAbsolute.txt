@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\bin\Debug\net9.0\List.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\bin\Debug\net9.0\List.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\bin\Debug\net9.0\List.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\bin\Debug\net9.0\List.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\refint\List.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\ArraysEListas\List\obj\Debug\net9.0\ref\List.dll

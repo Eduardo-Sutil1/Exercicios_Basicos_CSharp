@@ -1,0 +1,14 @@
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\bin\Debug\net9.0\for.exe
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\bin\Debug\net9.0\for.deps.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\bin\Debug\net9.0\for.runtimeconfig.json
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\bin\Debug\net9.0\for.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\bin\Debug\net9.0\for.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.AssemblyInfoInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.AssemblyInfo.cs
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.csproj.CoreCompileInputs.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\refint\for.dll
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.pdb
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\for.genruntimeconfig.cache
+C:\Estudos\GitHub\ProjetosIniciantes\ExerciciosBasicos\OperadoresRepeticao\for\obj\Debug\net9.0\ref\for.dll
