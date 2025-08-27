@@ -12,3 +12,9 @@ Repositório criado para eu estudar e ajudar a fixar conceitos básicos de C# po
 
 - **variaveisETipos**  
   Exercícios sobre declaração, inicialização e manipulação de variáveis e tipos básicos do C#.
+
+- **arrays**  
+  Exercícios sobre manipulação de arrays, incluindo criação, iteração e operações básicas.
+
+- **listas**  
+  Exercícios focados no uso da classe `List<T>`, adicionando, removendo e gerenciando coleções dinâmicas.
